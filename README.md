@@ -12,7 +12,7 @@ VScode, Expo.
 
 Você precisará ter apenas o [NodeJS](https://nodejs.org) instalado na sua máquina, e após isso, clonar este repositório:
 ```sh
-  $ git clone https://github.com/maateusilva/picpay-clone.git
+  $ git clone https://github.com/demetriugabriel/Picpay-clone.git
 ```
 
 Depois disso acesse a pasta da aula que você deseja e instale as dependências executando o seguinte comando:
