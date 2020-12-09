@@ -1,6 +1,6 @@
 # :computer: PicPay Clone
 
-Este é o repositório com o código fonte desenvolvido durante as aulas disponíveis no [YouTube](https://youtu.be/0CraBZHejKI) onde [Matheus Silva](https://github.com/maateusilva) cria um clone do aplicativo PicPay utilizando [React Native](https://reactnative.dev/docs/getting-started), [Styled Components](https://styled-components.com/) e [React Navigation 5](https://reactnavigation.org/docs/getting-started).
+Este é o repositório com o código fonte desenvolvido durante as aulas disponíveis no [YouTube](https://youtu.be/0CraBZHejKI) onde criamos um clone do aplicativo PicPay utilizando [React Native](https://reactnative.dev/docs/getting-started), [Styled Components](https://styled-components.com/) e [React Navigation 5](https://reactnavigation.org/docs/getting-started).
 
 Este projeto utiliza o [Expo](https://expo.io/).
 
